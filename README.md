@@ -11,10 +11,9 @@
 Just a guy who wanders the planet and loves to learn new things.
 
 - :eyes: I am looking for full time opportunities in the filed of machine learning, image processing and software development
-- :blue_book: I am pursuing my master's in Electrical Engineering at USC Viterbi SChool of Engineering with interest in machine learning
-- :hammer: I am working part time at [Mark and Mary Stevens Neuro Informatics Institute](https://www.ini.usc.edu/) as a Deep learning and Medical Image Analyst
-- :airplane: I am also interning at [Dragonfruit AI](https://www.dragonfruit.ai/) as a Machine Learning Engineer.
-- :briefcase: I have experience in research, prototype and deploy machine learning models
+- :hammer:  I am interning at [Dragonfruit AI](https://www.dragonfruit.ai/) as a Machine Learning Engineer
+- :briefcase: I have experience in research, prototype and deployment of machine learning models
+- :blue_book: I have a master's degree in Electrical Engineering with focus in machine learning from University of Southern California
 - :rocket: I love learning new stuff all the time, so if I don't know something today I will know it tomorrow
 
 ## My GitHub Stats
