@@ -5,7 +5,7 @@
     <img src="https://media4.giphy.com/media/srToabNwtNT6SgZRW2/giphy.gif?cid=ecf05e47jjlfqepma3p3t6o048c6ffh85esgnz8ic0m5nugd&rid=giphy.gif">
 </p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-gdk) [![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dineshgdk) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dineshgdk.hashnode.dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-gdk) [![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dineshgdk)
 
 ## Good to see you here !
 
