@@ -1,9 +1,11 @@
-# Hi there, I'm Dinesh :wave:
-![Alt Text](https://media4.giphy.com/media/srToabNwtNT6SgZRW2/giphy.gif?cid=ecf05e47jjlfqepma3p3t6o048c6ffh85esgnz8ic0m5nugd&rid=giphy.gif")
+<h1 align="center">
+    Hi there, I'm Dinesh &#128075;
+</h1>
+<p align="center">
+    <img src="https://media4.giphy.com/media/srToabNwtNT6SgZRW2/giphy.gif?cid=ecf05e47jjlfqepma3p3t6o048c6ffh85esgnz8ic0m5nugd&rid=giphy.gif">
+</p>
 
-<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/srToabNwtNT6SgZRW2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dotcromwell-airline-private-jet-plane-srToabNwtNT6SgZRW2">via GIPHY</a></p> -->
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-gdk) [![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dineshgdk)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-gdk) [![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dineshgdk) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dineshgdk.hashnode.dev/)
 
 ## Good to see you here !
 
